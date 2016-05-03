@@ -1,0 +1,39 @@
+Listening on port 3000
+Leader id: 3
+[0mGET /leadership/3 [36m304 [0m21.408 ms - -[0m
+Dish id: 0
+[0mGET /dishes/0 [36m304 [0m23.131 ms - -[0m
+Promotion id: 0
+[0mGET /promotions/0 [36m304 [0m24.203 ms - -[0m
+[0mGET / [36m304 [0m25.914 ms - -[0m
+[0mGET /images/uthapizza.png [36m304 [0m2.770 ms - -[0m
+[0mGET /images/alberto.png [36m304 [0m2.222 ms - -[0m
+[0mGET /images/buffet.png [36m304 [0m0.457 ms - -[0m
+[0mGET /dishes [36m304 [0m0.878 ms - -[0m
+[0mGET /images/zucchipakoda.png [36m304 [0m0.514 ms - -[0m
+[0mGET /images/vadonut.png [36m304 [0m1.255 ms - -[0m
+[0mGET /images/elaicheesecake.png [36m304 [0m0.714 ms - -[0m
+Leader id: 3
+[0mGET /leadership/3 [36m304 [0m2.521 ms - -[0m
+Dish id: 0
+[0mGET /dishes/0 [36m304 [0m3.248 ms - -[0m
+Promotion id: 0
+[0mGET /promotions/0 [36m304 [0m3.214 ms - -[0m
+[0mGET / [36m304 [0m1.446 ms - -[0m
+[0mGET /images/alberto.png [36m304 [0m0.578 ms - -[0m
+[0mGET /images/uthapizza.png [36m304 [0m1.028 ms - -[0m
+[0mGET /images/buffet.png [36m304 [0m0.950 ms - -[0m
+Leader id: 3
+[0mGET /leadership/3 [36m304 [0m3.435 ms - -[0m
+Dish id: 0
+[0mGET /dishes/0 [36m304 [0m3.657 ms - -[0m
+Promotion id: 0
+[0mGET /promotions/0 [36m304 [0m3.319 ms - -[0m
+[0mGET / [36m304 [0m0.491 ms - -[0m
+[0mGET /images/alberto.png [36m304 [0m10.040 ms - -[0m
+[0mGET /images/uthapizza.png [36m304 [0m8.595 ms - -[0m
+[0mGET /images/buffet.png [36m304 [0m7.145 ms - -[0m
+[0mGET /dishes [36m304 [0m1.739 ms - -[0m
+[0mGET /images/zucchipakoda.png [36m304 [0m1.587 ms - -[0m
+[0mGET /images/vadonut.png [36m304 [0m1.592 ms - -[0m
+[0mGET /images/elaicheesecake.png [36m304 [0m0.928 ms - -[0m
